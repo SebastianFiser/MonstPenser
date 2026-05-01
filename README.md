@@ -44,8 +44,9 @@ It holds 3 gravity-fed tracks of monster cans . **If some people want to separat
 |Miscs(wire, screws, brackets)|Assemby (the manual one)|~$10
 
 **ESTIM. total ~$58?**
-// 35 miutes the recorsing didnt work i want to jump
-Repo structure
+
+
+# Repo structure
 ```Code
 MonsterDispenser/
 ├── firmware/
