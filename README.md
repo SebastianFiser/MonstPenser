@@ -42,6 +42,7 @@ It holds 3 gravity-fed tracks of monster cans . **If some people want to separat
 |CUSTOM PCB| (JLCPCB/PCBWAY)| Clean wiring |~$10|
 |Wood / acrylic shield / building mats| Enclosure|~$15|
 |Miscs(wire, screws, brackets)|Assemby (the manual one)|~$10
+
 **ESTIM. total ~$58?**
 // 35 miutes the recorsing didnt work i want to jump
 Repo structure
