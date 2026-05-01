@@ -8,12 +8,18 @@ MonsterDispenser is a wall-mounted vending unit built for one purpouse - fetting
 It holds 3 gravity-fed tracks of monster cans . **If some people want to separate flavours** Each track has its own button. Hit it, and the servo gates releases, and a can rolls out! A smalll 128x 64 OLED screen in front shows how many cans are left in each slot **IN REAL TIME** mindblowing i know.  You sadly restock yourself, and im defo not paying for it.
 
 # Features
-•🟢 ***3 independent slots** - One per monster flavour or just triple the amount of one
+•🟢 **3 independent slots** - One per monster flavour or just triple the amount of one
+
 •🖥️ **OLED inventory display** - shows live count per slot
+
 •🔘 **3 dedicated bttons** - one press, one slot
+
 •⚙️ **Servo gate mechanism** - gravity fed tracks, servo holds and releases cans
+
 •🧠 **Raspberry Pi Pico** - runs the whole thing
+
 •🔌 **Custom PCB** (kicad designed) - clean wiring = no mess
+
 •📦 **OPEN SOURCE** - build one yourself
 
 # How it works
