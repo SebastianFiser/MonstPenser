@@ -83,4 +83,4 @@ This project is being built as part of **Hack club Fallout**
 BUT also for people that dont want to have their preciosly bought drinks brought home chaotiucly stored
 
 # License
-MIZT- build it, mod it, ship it.
+MIT- build it, mod it, ship it.
